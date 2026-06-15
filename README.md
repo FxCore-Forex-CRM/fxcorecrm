@@ -17,4 +17,5 @@ Prop Trading & Multi-Asset brokers.
 👉 https://fxcorecrm.com
 
 ## 📧 Contact
-📩 contact@fxcorecrm.com
+📩 sales@fxcorecrm.com
+
