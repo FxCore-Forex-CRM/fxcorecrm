@@ -1,2 +1,20 @@
-# fxcorecrm
-Best Forex CRM Provider for Forex, CFD &amp; Prop  Trading Brokers. MT5 Integration, Trader's Room,  Back-Office, Copy Trading, MAM &amp; PAMM Solutions.
+# FxCore CRM — Best Forex CRM Provider
+
+Best Forex CRM Provider for Forex, CFD, 
+Prop Trading & Multi-Asset brokers.
+
+## 🚀 Key Features
+- ✅ MT5/MT4 Direct Integration
+- ✅ Trader's Room
+- ✅ Back-Office Management  
+- ✅ Copy Trading & Social Trading
+- ✅ MAM & PAMM Solutions
+- ✅ KYC/Onboarding Automation
+- ✅ Multi-Asset Support
+- ✅ Real-time Account Sync
+
+## 🌐 Visit Us
+👉 https://fxcorecrm.com
+
+## 📧 Contact
+📩 contact@fxcorecrm.com
