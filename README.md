@@ -3,6 +3,14 @@
 Best Forex CRM Provider for Forex, CFD, 
 Prop Trading & Multi-Asset brokers.
 
+# FxCoreCRM – Best Forex CRM for MT5 Brokers
+🌐 Website: https://fxcorecrm.com
+📧 Contact: sales@fxcorecrm.com
+🏢 Dubai, UAE | +971 5557 14507
+
+Leading Forex CRM with MT5 integration, IB management, 
+KYC, Copy Trading, PAMM & Back Office — all in one platform.
+
 ##  Key Features
 - ✅ MT5/MT4 Direct Integration
 - ✅ Trader's Room
