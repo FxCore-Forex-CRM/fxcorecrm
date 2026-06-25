@@ -42,3 +42,22 @@ KYC, Copy Trading, PAMM & Back Office — all in one platform.
 
 ## 🔗 Follow Us
 - LinkedIn: https://www.linkedin.com/company/fxcore-crm/
+
+  ## 🔗 Our Products
+
+- [Forex CRM](https://fxcorecrm.com/products/forex-crm)
+- [IB Manager](https://fxcorecrm.com/products/ib-manager)
+- [Copy Trading](https://fxcorecrm.com/products/copy-trading)
+- [PAMM System](https://fxcorecrm.com/products/pamm)
+- [Client Portal](https://fxcorecrm.com/products/client-portal)
+- [Digital Onboarding](https://fxcorecrm.com/products/digital-onboarding)
+- [Contest Manager](https://fxcorecrm.com/products/contest-manager)
+
+---
+
+## 🔗 Integrations
+
+- [MT5 Trading Platforms](https://fxcorecrm.com/integrations/trading-platforms)
+- [Payment Providers](https://fxcorecrm.com/integrations/payments-providers)
+- [KYC Providers](https://fxcorecrm.com/integrations/kyc-providers)
+- [Liquidity Providers](https://fxcorecrm.com/integrations/liquidity-providers)
