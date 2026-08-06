@@ -34,8 +34,38 @@ KYC, Copy Trading, PAMM & Back Office — all in one platform.
 - Complete all-in-one ecosystem
 - 24/7 dedicated support
 
-## 🌐 Visit Us
-👉 https://fxcorecrm.com
+# FxCore CRM
+
+Forex CRM and back-office platform for brokers, prop trading firms, and white-label partners. Native MT4/MT5 integration, automated KYC/AML, IB commission management, and a self-service trader portal.
+
+## What's in this org
+
+This organization hosts guides and resources for forex brokers evaluating or implementing CRM/back-office systems:
+
+- [`forex-crm-guide`](https://github.com/FxCore-Forex-CRM/forex-crm-guide) — how to evaluate and choose a forex CRM provider
+- [`mt5-integration-guide`](https://github.com/FxCore-Forex-CRM/mt5-integration-guide) — technical breakdown of MT4/MT5 CRM integration, including common pitfalls
+- [`prop-trading-crm`](https://github.com/FxCore-Forex-CRM/prop-trading-crm) — CRM considerations specific to prop trading firms
+- [`forex-broker-resources`](https://github.com/FxCore-Forex-CRM/forex-broker-resources) — general brokerage management resources
+
+## Core platform features
+
+| Feature | Description |
+|---|---|
+| MT4/MT5 Integration | Real-time trade and balance syncing via manager API |
+| KYC/AML Automation | Automated identity verification before live account activation |
+| IB Management | Multi-level commission tracking and payout automation |
+| Trader Portal | Self-service client dashboard for deposits, withdrawals, account activity |
+| Back-Office Reporting | Risk exposure, client activity, and revenue visibility |
+
+## Learn more
+
+Website: https://fxcorecrm.com
+Documentation: https://fxcorecrm.com/docs (if you have a docs page — otherwise remove this line)
+Request a demo: https://fxcorecrm.com/request-demo
+
+## License
+
+Content in this repository is provided for informational purposes. See individual files for licensing details.
 
 ##  Contact
 📩 sales@fxcorecrm.com
