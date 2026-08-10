@@ -60,7 +60,6 @@ This organization hosts guides and resources for forex brokers evaluating or imp
 ## Learn more
 
 Website: https://fxcorecrm.com
-Documentation: https://fxcorecrm.com/docs (if you have a docs page — otherwise remove this line)
 Request a demo: https://fxcorecrm.com/request-demo
 
 ## License
