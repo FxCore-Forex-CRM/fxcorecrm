@@ -46,6 +46,7 @@ This organization hosts guides and resources for forex brokers evaluating or imp
 - [`mt5-integration-guide`](https://github.com/FxCore-Forex-CRM/mt5-integration-guide) — technical breakdown of MT4/MT5 CRM integration, including common pitfalls
 - [`prop-trading-crm`](https://github.com/FxCore-Forex-CRM/prop-trading-crm) — CRM considerations specific to prop trading firms
 - [`forex-broker-resources`](https://github.com/FxCore-Forex-CRM/forex-broker-resources) — general brokerage management resources
+- https://fxcorecrm.com/blogs/forex-back-office-software
 
 ## Core platform features
 
