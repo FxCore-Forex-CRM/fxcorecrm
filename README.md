@@ -82,6 +82,7 @@ Content in this repository is provided for informational purposes. See individua
 - [Client Portal](https://fxcorecrm.com/products/client-portal)
 - [Digital Onboarding](https://fxcorecrm.com/products/digital-onboarding)
 - [Contest Manager](https://fxcorecrm.com/products/contest-manager)
+- https://fxcorecrm.com/blogs/fx-aggregator-software-for-forex-brokers-2026
 
 ---
 
