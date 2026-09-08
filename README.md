@@ -47,6 +47,7 @@ This organization hosts guides and resources for forex brokers evaluating or imp
 - [`prop-trading-crm`](https://github.com/FxCore-Forex-CRM/prop-trading-crm) — CRM considerations specific to prop trading firms
 - [`forex-broker-resources`](https://github.com/FxCore-Forex-CRM/forex-broker-resources) — general brokerage management resources
 - https://fxcorecrm.com/blogs/forex-back-office-software
+- https://fxcorecrm.com/blogs/forex-crm-software-for-malaysia-brokers-2026
 
 ## Core platform features
 
