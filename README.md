@@ -94,3 +94,4 @@ Content in this repository is provided for informational purposes. See individua
 - [Payment Providers](https://fxcorecrm.com/integrations/payments-providers)
 - [KYC Providers](https://fxcorecrm.com/integrations/kyc-providers)
 - [Liquidity Providers](https://fxcorecrm.com/integrations/liquidity-providers)
+- https://fxcorecrm.com/blogs/forex-crm-pricing-2026
