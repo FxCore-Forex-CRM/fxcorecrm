@@ -51,6 +51,7 @@ This organization hosts guides and resources for forex brokers evaluating or imp
 - https://fxcorecrm.com/blogs/fxcore-crm-advanced-forex-crm-and-back-office-solution
 - https://fxcorecrm.com/blogs/withdrawal-approval-workflows-prevent-fraud-and-errors-2026
 - https://fxcorecrm.com/blogs/forex-crm-implementation-demo-to-live-in-6-weeks-2026
+- https://fxcorecrm.com/blogs/forex-crm-features-that-increase-broker-revenue
 
 ## Core platform features
 
